@@ -1,4 +1,7 @@
 # Exp-1 ATM & BANKING SYSTEM
+NAME : NITHEESH KUMAR B
+
+REG NO: 212223230189
 
 # AIM:
 To design and implement an ATM & Banking System using software engineering principles. The system should simulate key banking functions such as account creation, user authentication, cash withdrawal, deposit, balance enquiry, and management.
